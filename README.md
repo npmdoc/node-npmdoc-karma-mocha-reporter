@@ -1,9 +1,14 @@
-# api documentation for  [karma-mocha-reporter (v2.2.3)](http://www.litixsoft.de/index.php?lang=en#modules)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-mocha-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-mocha-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-mocha-reporter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-mocha-reporter)
+# npmdoc-karma-mocha-reporter
+
+#### api documentation for  [karma-mocha-reporter (v2.2.3)](http://www.litixsoft.de/index.php?lang=en#modules)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-mocha-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-mocha-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-mocha-reporter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-mocha-reporter)
+
 #### Karma reporter with mocha style logging.
 
-[![NPM](https://nodei.co/npm/karma-mocha-reporter.png?downloads=true)](https://www.npmjs.com/package/karma-mocha-reporter)
+[![NPM](https://nodei.co/npm/karma-mocha-reporter.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-mocha-reporter)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-mocha-reporter/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-karma-mocha-reporter_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-mocha-reporter/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-karma-mocha-reporter/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-karma-mocha-reporter/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-karma-mocha-reporter/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-karma-mocha-reporter/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-karma-mocha-reporter/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Litixsoft GmbH",
-        "email": "info@litixsoft.de",
         "url": "http://www.litixsoft.de"
     },
     "bugs": {
@@ -26,12 +30,10 @@
     },
     "contributors": [
         {
-            "name": "Artem Baguinski",
-            "email": "abaguinski@gmail.com"
+            "name": "Artem Baguinski"
         },
         {
-            "name": "Brendan Nee",
-            "email": "brendan@blinktag.com"
+            "name": "Brendan Nee"
         },
         {
             "name": "Túbal Martín"
@@ -113,8 +115,7 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "litixsoft",
-            "email": "info@litixsoft.de"
+            "name": "litixsoft"
         }
     ],
     "name": "karma-mocha-reporter",
@@ -122,7 +123,6 @@
     "peerDependencies": {
         "karma": ">=0.13"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/litixsoft/karma-mocha-reporter.git"
@@ -134,16 +134,6 @@
     "version": "2.2.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module karma-mocha-reporter](#apidoc.module.karma-mocha-reporter)
-
-
-
-# <a name="apidoc.module.karma-mocha-reporter"></a>[module karma-mocha-reporter](#apidoc.module.karma-mocha-reporter)
 
 
 
