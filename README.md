@@ -1,6 +1,6 @@
 # npmdoc-karma-mocha-reporter
 
-#### api documentation for  [karma-mocha-reporter (v2.2.3)](http://www.litixsoft.de/index.php?lang=en#modules)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-mocha-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-mocha-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-mocha-reporter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-mocha-reporter)
+#### basic api documentation for  [karma-mocha-reporter (v2.2.3)](http://www.litixsoft.de/index.php?lang=en#modules)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-mocha-reporter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-mocha-reporter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-mocha-reporter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-mocha-reporter)
 
 #### Karma reporter with mocha style logging.
 
@@ -131,7 +131,8 @@
         "demo": "grunt demo --force",
         "test": "grunt test"
     },
-    "version": "2.2.3"
+    "version": "2.2.3",
+    "bin": {}
 }
 ```
 
